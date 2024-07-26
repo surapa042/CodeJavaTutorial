@@ -5,7 +5,7 @@ public class exNum {
         y = 99;
         float total;
         total = x + y;
-        System.out.println("tatal = "+tatal)
+        System.out.println("tatal = " + total);
     }
     
 }
